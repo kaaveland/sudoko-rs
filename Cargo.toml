@@ -1,0 +1,9 @@
+[package]
+name = "sudoku"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Robin Kåveland <kaaveland@gmail.com>"]
+
+[dependencies]
+regex = "1.11.1"
